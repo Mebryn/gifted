@@ -21,12 +21,12 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "DRONEZ",
       "required": true,
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 2547xxxxx",
+      "description": "233593885115",
       "required": true,
       "value": ""
     },
@@ -36,7 +36,7 @@
       "value": ""
     },
     "AUTO_READ_STATUS": {
-      "description": "Make it true if you want bot to view statuses",
+      "description": "Make it true if you want bot to read statuses",
       "required": true,
       "value": "true"
     },
@@ -73,7 +73,7 @@
     "WELCOME": {
       "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
