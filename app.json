@@ -11,7 +11,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'Gifted~'",
+      "description": "Gifted~Tupi3Igb#X22KjjIptgOHagYRrAaTe79EZz2it7RtofXrOkJ2pyc'",
       "required": true,
       "value": ""
     },  
