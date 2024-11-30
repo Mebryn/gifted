@@ -31,7 +31,7 @@
       "value": ""
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
+      "description": "233593885115,233533416608",
       "required": false,
       "value": ""
     },
@@ -78,7 +78,7 @@
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_AUDIO": {
       "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",
