@@ -11,9 +11,9 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~Tupi3Igb#X22KjjIptgOHagYRrAaTe79EZz2it7RtofXrOkJ2pyc'",
+      "description": "'",
       "required": true,
-      "value": ""
+      "value": "Gifted~TzgX1BBB#pN7OkH1HGW6iOINULPEPEV4vtsQSHz3nWwwivtY91nU"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",
@@ -23,15 +23,15 @@
     "OWNER_NAME": {
       "description": "DRONEZ",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "DRONEZ"
     },
     "OWNER_NUMBER": {
-      "description": "233593885115",
+      "description": "",
       "required": true,
-      "value": ""
+      "value": "233593885115"
     },
     "SUDO_NUMBERS": {
-      "description": "233593885115,233533416608",
+      "description": "",
       "required": false,
       "value": ""
     },
